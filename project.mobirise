@@ -47,16 +47,23 @@
         "url": "https://fonts.googleapis.com/css?family=Bowlby+One+SC:400"
       }
     ],
-    "uniqCompNum": 12,
+    "uniqCompNum": 15,
     "versionPublish": "4.12.4",
-    "imageResize": true
+    "imageResize": true,
+    "favicon": "@PROJECT_PATH@/assets/images/facebook-96ppp-128x128.png",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "BeatMasterSv",
+        "meta_descr": "BeatMasterSv",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
